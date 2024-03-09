@@ -2,6 +2,7 @@ streamlit
 flask 
 google-generativeai
 python-dotenv
+langchain-community
 langchain
 PyPDF2
 faiss-cpu
