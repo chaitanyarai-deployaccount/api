@@ -87,7 +87,7 @@ def chat():
     data = request.json
     user_question = data.get('message')
 
-    pdf_path = os.path.abspath("Express-Cheatsheet.pdf")
+    pdf_path = os.path.abspath("pdf.pdf")
 
     
     if pdf_path:
