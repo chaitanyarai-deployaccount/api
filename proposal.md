@@ -347,6 +347,6 @@ To grow Dymension’s community horizontally by engaging both technical and non-
 
 ## Conclusion
 This comprehensive strategy for the Dymension ecosystem is ideal to create a vibrant, engaged community while providing the necessary resources for sustained growth. 
-By implementing DymHub and following the phased engagement approach, we believe Dymension can establish itself as a leading platform in the blockchain space. The success of this initiative will rely on consistent execution, community involvement, and adaptive planning based on real-world feedback and metrics.
+By implementing DymHub and following the phased engagement approach, we believe the engagement and growth of the cosystem will be enhanced. The success of this initiative will rely on consistent execution, community involvement, and adaptive planning based on real-world feedback and metrics.
 
 
